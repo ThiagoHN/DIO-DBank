@@ -13,4 +13,4 @@ Projeto desenvolvido durante o BootCamp da Claro para desenvolver um sistema ban
 
 ## Saída/Output
 
-![img](TerminalBancário.png)
+![TerminalBancário](https://github.com/user-attachments/assets/3c5483ca-3400-4838-aee1-0bf33d7fc197)
